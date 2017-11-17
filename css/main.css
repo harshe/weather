@@ -1,0 +1,14 @@
+/* ========================================
+ * CSS written here will override Tachyons
+ * ======================================== */
+ .cold{
+   background: cyan;
+ }
+
+ .warm{
+   background: orange;
+ }
+
+ .hot{
+   background: tomato;
+ }
