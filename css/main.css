@@ -1,0 +1,45 @@
+/* ========================================
+ * CSS written here will override Tachyons
+ * ======================================== */
+ .cold{
+background-image: linear-gradient(45deg,#F0F7EE,#B7D3F2,#F0F7EE);
+background-size: cover;
+background-attachment: fixed;
+ }
+
+ .warm{
+   background-image: linear-gradient(45deg,#F0F7EE,#FFEFD5,#F0F7EE);
+   background-size: cover;
+   background-attachment: fixed;
+ }
+
+ .hot{
+   background-image: linear-gradient(45deg,#F0F7EE,#FFD1D1,#F0F7EE);
+   background-size: cover;
+   background-attachment: fixed;
+ }
+
+
+
+h1{
+  font-family: courier;
+  color: hsl(14, 100%, 53%);
+  letter-spacing: 2px;
+  font-size: 55px;
+  font-weight: 800;
+}
+
+h2{
+  font-family: courier;
+  color: hsl(14, 100%, 53%);
+  letter-spacing: 2px;
+ font-size: 30px;
+ font-weight: 600;
+}
+
+p{
+  font-family: courier;
+  color: hsl(14, 100%, 53%);
+  letter-spacing: 2px;
+  font-size: 20px;
+}
