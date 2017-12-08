@@ -1,0 +1,47 @@
+/* ========================================
+ * CSS written here will override Tachyons
+ * ======================================== */
+ .cold{
+background-image: url(/A.JPG);
+background-size: cover;
+background-attachment: fixed;
+}
+
+ .warm{
+   background-image: url(/F.JPG);
+   background-size: cover;
+   background-attachment: fixed;
+ }
+
+ .hot{
+   background-image: url(/D.JPG);
+   background-size: cover;
+   background-attachment: fixed;
+ }
+
+h1{
+  font-family: didot;
+  color: white;
+  letter-spacing: 2px;
+  font-size: 50px;
+  font-weight: 800;
+  text-shadow: 2px 2px 5px purple;
+
+}
+
+h2{
+  font-family: courier;
+  color: white;
+  letter-spacing: 2px;
+ font-size: 20px;
+ font-weight: 600;
+ text-shadow: 2px 4px 10px purple;
+}
+
+p{
+  font-family: sans-serif;
+  color: white;
+  letter-spacing: 2px;
+  font-size: 15px;
+  text-indent: 40px;
+}
